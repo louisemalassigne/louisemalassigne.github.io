@@ -1,0 +1,192 @@
+{
+  "basics": {
+    "name": "Louise Malassigné",
+    "label": "Étudiante",
+    "picture": "",
+    "email": "louise.malassigne96@gmail.com",
+    "phone": "(+33) 07 89 60 93 34",
+    "summary": "Étudiante en Master I Marketing digital & e-commerce, je suis actuellement à la recherche d'un stage dans ce secteur. ",
+    "location": {
+      "address": "133 rue Frères",
+      "postalCode": "33000",
+      "city": "Bordeaux",
+      "countryCode": "FR",
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "louisemalassigne",
+        "url": "https://github.com/louisemalassigne"
+      },
+      {
+        "network": "Linkedin",
+        "username": "louisemalassigne",
+        "url": "https://linkedin.com/in/louisemalassigne"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "INesta",
+      "position": "Ingénieur d'étude et développement",
+      "website": "http://ineat-conseil.fr",
+      "startDate": "2018-01-08",
+      "summary": "INEAT est une société de service informatique dans laquelle j'interviens sur des projets Javascript",
+      "highlights": [
+        "Création d'applications React/React Native et intégration avec Redux/Redux Saga ainsi que GraphQL",
+        "Etude et mise en place de l'architecture des applications",
+        "Mise en place du système d'intégration continue avec Jenkins"
+      ]
+    },
+    {
+      "organization": "TAG-IP",
+      "position": "Chef de projet et développeur lead",
+      "website": "http://tag-ip.com/",
+      "startDate": "2015-08-01",
+      "endDate": "2017-12-31",
+      "summary": "TAG-IP développe une solution pour le suivi d'une flotte de véhicule par GPS.",
+      "highlights": [
+        "Développement de l'API et de micro-services avec Node.JS et Elixir",
+        "Création d'applications clients avec AngularJS, React et React Native",
+        "Mise en place du système d'intégration continue et de déploiement continue avec Gitlab CI, Docker et Rancher",
+        "Gestion de projet et de l'équipe de développement autour de la méthode agile Kanban",
+        "Création et mise en place d'outils pour améliorer le suivi de projet (https://github.com/tagip/forest-guard, https://github.com/tagip/votabia)"
+      ]
+    },
+    {
+      "organization": "Netapsys Madagascar",
+      "position": "Chef de projet et développeur Drupal",
+      "website": "http://netapsys.fr/",
+      "startDate": "2012-08-01",
+      "endDate": "2015-07-30",
+      "summary": "Netapsys est une société de service informatique travaillant avec des grands client à Madagascar et en France",
+      "highlights": [
+        "Développement de projets avec Drupal 6 & 7, Wordpress et Joomla",
+        "Analyse des besoins clients, étude technique et estimation des charges",
+        "Création de modules personnalisés",
+        "Gestion de projet et de l'équipe de développement autour de la méthode agile Scrum",
+        "Déploiement sur les différents environnements",
+        "Optimisation des performances avec Boost, Varnish",
+        "Configuration de moteurs de recherche avec Solr"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mattermost",
+      "position": "Développeur React",
+      "website": "https://github.com/mattermost",
+      "startDate": "2015-08-01",
+      "summary": "Mattermost est un outil open source de collaboration et de discussion",
+      "highlights": [
+        "Correction de bugs",
+        "Création de nouvelles fonctionnalités",
+        "Participation à des meetups et rencontres avec les autres collaborateurs "
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institut Supérieur Polytechnique de Madagascar",
+      "area": "Téchnologies de l'Information et de la Communication",
+      "studyType": "Ingénieur",
+      "startDate": "2005-11-01",
+      "endDate": "2011-08-01",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+    {
+      "name": "Un dépôt Github comme CV",
+      "publisher": "Mika ANDRIANARIJAONA",
+      "releaseDate": "2018-05-29",
+      "website": "https://mikaoelitiana.name/fr/un-depot-github-comme-cv/",
+      "summary": "Créer son CV à la manière geek et le publier sur Github Pages avec Travis CI"
+    },
+    {
+      "name": "React Native Android – Générer versionCode et versionName depuis package.json",
+      "publisher": "Mika ANDRIANARIJAONA",
+      "releaseDate": "2018-06-04",
+      "website": "https://mikaoelitiana.name/fr/react-native-android-generer-versioncode-et-versionname-depuis-package-json/",
+      "summary": "Faciliter les changements à faire lors de la création d'une nouvelle version d'un projet React Native Android"
+    },
+    {
+      "name": "Générer un rapport de couverture de tests avec Jest et Jenkins",
+      "publisher": "Mika ANDRIANARIJAONA",
+      "releaseDate": "2018-06-19",
+      "website": "https://mikaoelitiana.name/fr/generer-un-rapport-de-couverture-de-tests-avec-jest-et-jenkins/",
+      "summary": "Dans cet article, j’explique comment publier un rapport de couverture de tests exécutés par Jest dans les builds automatiques Jenkins."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Développement Web",
+      "level": "Avancé",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "AngularJs",
+        "Drupal",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Développement Mobile",
+      "level": "Avancé",
+      "keywords": [
+        "React Native",
+        "Objective C"
+      ]
+    },
+    {
+      "name": "Automatisation",
+      "level": "Avancé",
+      "keywords": [
+        "Jenkins",
+        "Gitlab CI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Natif"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Bon"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Niveau Lycée"
+    },
+    {
+      "language": "Malgache",
+      "fluency": "Natif"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Basket-Ball",
+        "Natation"
+      ]
+    },
+    {
+      "name": "Musique",
+      "keywords": [
+        "Guitare basse"
+      ]
+    }
+  ],
+  "references": [
+    
+  ]
+}
